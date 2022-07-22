@@ -6,8 +6,8 @@ import java.util.Scanner;
 public class Function_Main {
      static int num1,num2,res,res1,sum;
      static Scanner sc=new Scanner(System.in);
-     num1=sc.nextInt();     
-	   num2=sc.nextInt();
+     //num1=sc.nextInt();     
+     //num2=sc.nextInt();
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
